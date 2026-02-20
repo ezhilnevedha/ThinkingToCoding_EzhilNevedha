@@ -20,3 +20,6 @@ And i have learnt to handle database connection error and fixed the real-world i
 
 ## MONGODB CONNECTION:
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6d3a8686-1cf9-48c8-9601-8fabc1c311bd" />
+
+<img width="1918" height="1016" alt="image" src="https://github.com/user-attachments/assets/798847c8-09ef-4ace-8d8f-c19e5425448b" />
+
